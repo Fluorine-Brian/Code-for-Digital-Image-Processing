@@ -1,0 +1,1 @@
+This is an implementation python codes project of my course ``Digital Image Processing ``homework. Original images of DIP and processed images have been uploaded. Besides, there are a few python codes for my other course ``Biochemistry Experiment``. If you have any questions, feel free to send me an [email](xinyufu431@gmail.com).
